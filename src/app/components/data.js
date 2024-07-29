@@ -15,18 +15,18 @@ export const projectData = [
     },
     {
       id: 3,
-      title: "Lucy's Favorite Albums",
+      title: "Favorite Albums",
       description:
         "Discover your next favorite album with my website, which generates a random album and its review from my personal favorites at the click of a button. Enjoy curated music recommendations and insights, all in one convenient place.",
       gitHubLink: 'https://github.com/olawanlejoel/random-quote-generator',
     },
-    // {
-    //   id: 4,
-    //   title: 'Password Generator',
-    //   description:
-    //     'Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard.',
-    //   gitHubLink: 'https://github.com/olawanlejoel/Password-Generator',
-    // },
+    {
+      id: 4,
+      title: 'Password Manager',
+      description:
+        'This program allows you to generate random passwords and save them in a password manager app. It uses Java and a UI to create easily viewable websites and passwords.',
+      gitHubLink: 'https://github.com/lmoore36/password-manager/tree/password-manager',
+    },
     // {
     //   id: 5,
     //   title: 'Twitter UI Clone',
