@@ -18,7 +18,7 @@ export const projectData = [
       title: "Favorite Albums",
       description:
         "Discover your next favorite album with my website, which generates a random album and its review from my personal favorites at the click of a button. Enjoy curated music recommendations and insights, all in one convenient place.",
-      gitHubLink: 'https://github.com/olawanlejoel/random-quote-generator',
+      gitHubLink: 'https://github.com/lmoore36',
     },
     {
       id: 4,
@@ -27,11 +27,11 @@ export const projectData = [
         'This program allows you to generate random passwords and save them in a password manager app. It uses Java and a UI to create easily viewable websites and passwords.',
       gitHubLink: 'https://github.com/lmoore36/password-manager/tree/password-manager',
     },
-    // {
-    //   id: 5,
-    //   title: 'Twitter UI Clone',
-    //   description:
-    //     'Simple Twitter UI clone built with TailwindCSS and Vue Js. This covers only the homepage of Twitter UI. This is cool to get started with TailwindCSS as it helps understand basic concepts.',
-    //   gitHubLink: 'https://github.com/olawanlejoel/TwitterUI-clone',
-    // },
+    {
+      id: 5,
+      title: 'ER Queue Simulator',
+      description:
+        'Java based ER queue simulator demonstrating data structures through assigning patients a priority and showing the enqueue/dequeue process. UI created with SwingUI.',
+      gitHubLink: 'https://github.com/lmoore36/emergency-room-simulator',
+    },
   ];

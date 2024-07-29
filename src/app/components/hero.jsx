@@ -7,8 +7,7 @@ const Hero = () => {
       <div className="hero-text">
         <h2>Hi, I'm Lucy!</h2>
         <p>
-          I'm a student at the University of North Carolina in Chapel Hill, graduating Spring 2026. 
-          I am double majoring in Computer Science and Peace, War, and Defense with a minor in Data Science.
+          I'm a student at UNC Chapel Hill studying CS and Peace, War, and Defense!
         </p>
         <div className="social-icons">
           {/* <a

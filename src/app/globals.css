@@ -331,7 +331,7 @@ hr {
 }
 
 .skills-container .grid-skills .swift:hover {
-  background-color: #2c29ea;
+  background-color: #f69d02;
 }
 
 .skills-container .grid-skills .java:hover {
@@ -391,12 +391,13 @@ hr {
 
 .project-card .small-icons a {
   margin-right: 5px;
+  font-size: 25px;
   cursor: pointer;
   transition: all .5s ease;
 }
 
 .project-card .small-icons a:hover {
-  color: #ff178b;
+  color: #17b2ff;
 }
 
 .project-card .project h3 {

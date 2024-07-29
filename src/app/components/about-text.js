@@ -11,13 +11,12 @@ const AboutText = () => {
                 My project experience includes developing interactive mobile applications and managing data migration and security features in enterprise environments.
             </p>
             <p>
-                Currently, I am a Diversity and Inclusion Program Ambassador at UNC’s Department of Computer Science, where I design and implement DEI programs and resources, increasing opportunities for 2,000+ computer science majors. 
-            My work has boosted visibility through impactful events and campaigns, celebrating underrepresented individuals in the field.
+                Currently, I am a Diversity and Inclusion Program Ambassador at UNC’s Department of Computer Science, where I design and implement DEI programs and resources for the university.
+                My work has boosted visibility through impactful events and campaigns, celebrating underrepresented individuals in the field.
             </p>
             <p>
                 My internships have provided me with hands-on experience in data analysis and enterprise data integration. 
-                At the U.S. Department of State – Veteran’s Affairs, I analyzed performance data from 100+ web pages, creating reports to enhance digital content reach.         
-                At Reser’s Fine Foods, I streamlined the migration of features between test and production environments in Infor M3 and automated Active Directory updates for 4,000+ employees.
+                At Reser’s Fine Foods, I worked to streamline the migration of features between test and production environments in Infor M3.
             </p>
             <p>
                 In my free time, I enjoy running, playing the guitar, and outdoor activities like hiking, skiing, and camping. 
