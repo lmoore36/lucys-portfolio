@@ -7,8 +7,6 @@ const Footer = () => {
             © {new Date().getFullYear()} Lucy's Portfolio
           </p>
           <div className="social_icons">
-              <i className="fa-brands fa-twitter"></i>
-            </a>
             <a
               href="https://github.com/lmoore36"
               aria-label="GitHub"
