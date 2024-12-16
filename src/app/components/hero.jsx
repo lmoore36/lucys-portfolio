@@ -10,14 +10,6 @@ const Hero = () => {
           I'm a student at UNC Chapel Hill studying CS and Peace, War, and Defense!
         </p>
         <div className="social-icons">
-          {/* <a
-            href="https://twitter.com/olawanle_joel"
-            aria-label="Twitter"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fa-brands fa-twitter"></i>
-          </a> */}
           <a
             href="https://github.com/lmoore36"
             aria-label="GitHub"

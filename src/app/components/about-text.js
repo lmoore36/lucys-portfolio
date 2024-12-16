@@ -2,25 +2,28 @@ const AboutText = () => {
     return (
         <div>
             <p>
-                I’m originally from Portland, Oregon, and currently a junior at UNC Chapel Hill, set to graduate in 2026. 
-                I am pursuing a Bachelor of Science in Computer Science and a Bachelor of Arts in Peace, War, and Defense, with a minor in Data Science. 
-                My passion lies at the intersection of technology and government, where I aspire to develop solutions that enhance public services and policy-making.
+		        Originally from Portland, Oregon, I’m a junior at UNC Chapel Hill, double majoring in Computer Science and Peace, War, and Defense with a minor in History. 
+                Set to graduate in Spring 2026, I’m passionate about leveraging technology to address challenges in government, defense, and foreign policy.
             </p>
+
             <p>
-                As a developer, I excel in both web and mobile technologies, with expertise in Swift, Java, HTML, CSS, and JavaScript. 
-                My project experience includes developing interactive mobile applications and managing data migration and security features in enterprise environments.
+                With experience in backend technologies and web development, I’ve contributed to scalable backend systems, designed RESTful APIs, and optimized databases as part of UNC’s App Team. 
+                My technical expertise includes Java, Python, Node.js, HTML, CSS, and JavaScript, complemented by academic projects in full-stack development and secure authentication systems.
             </p>
+             
             <p>
-                Currently, I am a Diversity and Inclusion Program Ambassador at UNC’s Department of Computer Science, where I design and implement DEI programs and resources for the university.
-                My work has boosted visibility through impactful events and campaigns, celebrating underrepresented individuals in the field.
+                Beyond development, I’m dedicated to advancing diversity in tech.
+                At UNC, I work to increase visibility and opportunity through my position as a DEI ambassador for the Department of Computer Science. 
+                Additionally, as an executive team member for Pearl Hacks, UNC’s annual hackathon for women and gender non-conforming individuals, I help organize an event that brings together over 500 participants from diverse backgrounds, fostering innovation and inclusion in tech!
             </p>
+
             <p>
-                My internships have provided me with hands-on experience in data analysis and enterprise data integration. 
-                At Reser’s Fine Foods, I worked to streamline the migration of features between test and production environments in Infor M3.
+                In Summer 2024,  gained hands-on experience as a Data Integration Intern at Reser’s Fine Foods, streamlining feature migration and improving deployment efficiency. 
+                This summer, I’m excited to join Microsoft in Redmond, WA, as a Software Engineering Intern.
             </p>
+            
             <p>
-                In my free time, I enjoy running, playing the guitar, and outdoor activities like hiking, skiing, and camping. 
-                I am passionate about continuous learning and making a positive impact through technology.
+                In my free time, I enjoy running, playing the guitar, and spending time outdoors through hiking and camping.
             </p>
         </div>
     )
